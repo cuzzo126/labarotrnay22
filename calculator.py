@@ -1,9 +1,4 @@
-"""
-Simple Calculator Program
-Supports basic arithmetic operations
-Version 1.0
-Author: Student
-"""
+
 
 def add(a, b):
     return a + b
