@@ -1,3 +1,8 @@
+"""
+Simple Calculator Program
+Version 1.0
+Author: Student
+"""
 def divide(a, b):
     if b == 0:
         return "Error: Division by zero!"
